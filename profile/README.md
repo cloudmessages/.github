@@ -11,7 +11,7 @@ The project defines transport-agnostic envelopes and semantics for commands, que
 ## Core repositories
 
 - [spec](https://github.com/cloudmessages/spec)
-- [website](https://github.com/cloudmessages/website)
+- [site](https://github.com/cloudmessages/cloudmessages.github.io)
 - [governance](https://github.com/cloudmessages/governance)
 - [schemas](https://github.com/cloudmessages/schemas)
 - [examples](https://github.com/cloudmessages/examples)
