@@ -1,5 +1,9 @@
 # CloudMessages
 
+<p align="center">
+  <img src="./cloudmessages-logo.png" alt="CloudMessages logo" width="220">
+</p>
+
 CloudMessages is a standards-oriented initiative for normalising major message types used in modern distributed systems.
 
 - CloudEvents standardises facts.
